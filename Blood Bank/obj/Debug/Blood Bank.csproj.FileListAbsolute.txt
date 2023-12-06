@@ -1,0 +1,16 @@
+F:\Safwan\Semester 6\C#\Blood Bank\bin\Debug\Blood Bank.exe.config
+F:\Safwan\Semester 6\C#\Blood Bank\bin\Debug\Blood Bank.exe
+F:\Safwan\Semester 6\C#\Blood Bank\bin\Debug\Blood Bank.pdb
+F:\Safwan\Semester 6\C#\Blood Bank\obj\Debug\Blood Bank.csproj.AssemblyReference.cache
+F:\Safwan\Semester 6\C#\Blood Bank\obj\Debug\Blood_Bank.BloodBank.resources
+F:\Safwan\Semester 6\C#\Blood Bank\obj\Debug\Blood_Bank.DonorSignIn.resources
+F:\Safwan\Semester 6\C#\Blood Bank\obj\Debug\Blood_Bank.Properties.Resources.resources
+F:\Safwan\Semester 6\C#\Blood Bank\obj\Debug\Blood Bank.csproj.GenerateResource.cache
+F:\Safwan\Semester 6\C#\Blood Bank\obj\Debug\Blood Bank.csproj.CoreCompileInputs.cache
+F:\Safwan\Semester 6\C#\Blood Bank\obj\Debug\Blood Bank.exe
+F:\Safwan\Semester 6\C#\Blood Bank\obj\Debug\Blood Bank.pdb
+F:\Safwan\Semester 6\C#\Blood Bank\obj\Debug\Blood_Bank.DonorSignUp.resources
+F:\Safwan\Semester 6\C#\Blood Bank\obj\Debug\Blood_Bank.DONOR_Portal.resources
+F:\Safwan\Semester 6\C#\Blood Bank\obj\Debug\Blood_Bank.RECEIVER_SignIn.resources
+F:\Safwan\Semester 6\C#\Blood Bank\obj\Debug\Blood_Bank.RECEIVER_SignUp.resources
+F:\Safwan\Semester 6\C#\Blood Bank\obj\Debug\Blood_Bank.RECEIVER_Portal.resources
